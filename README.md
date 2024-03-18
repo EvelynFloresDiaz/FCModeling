@@ -1,2 +1,2 @@
 # FCModeling
-FCModeling: Financial Contagion Modeling 
+FCModeling: Financial Network Contagion Modeling 
